@@ -1,0 +1,7 @@
+{
+  "course_selector": "#course_268727636_158625260 .course-cover a",
+  "chapters_selector": "#nav_71866 > a",
+  "start_selector": "#cur1276320242",
+  "quiz_row_id": "cur1276320237",
+  "quiz_question_count": 99
+}
